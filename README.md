@@ -19,7 +19,7 @@ TXT file 16x10, letters have special meanings and translates to tiles in game.
 * L: Laser
 * D: Door
 
--- Example --
+**Example**
 ```
 WWWWWWWWWWWWWWWW
 WXXXXXXXXXXXXXXW
