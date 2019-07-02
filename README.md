@@ -15,8 +15,8 @@ TXT file 16x10, letters have special meanings and translates to tiles in game.
 * H: Hole
 * E: Elephant (only 1 will be rendered)
 * O: Food
-* N: Enemy
-* L: Laser
+* N: Enemy (NOT IMPLEMENTED YET)
+* L: Laser (NOT IMPLEMENTED YET)
 * D: Door
 
 **Example**
