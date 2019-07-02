@@ -32,3 +32,6 @@ WXXXXXXXXXXXXXXW
 WXXXXXXXXXXXXXXW
 WWWWWWWWWWWWWWWW
 ```
+This will be rendered:
+
+![Level 1](https://raw.githubusercontent.com/mcerdeira/elephant_levels/master/assets/capture.png)https://raw.githubusercontent.com/mcerdeira/elephant_levels/master/assets/capture.png
