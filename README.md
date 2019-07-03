@@ -1,4 +1,4 @@
-# elephant_levels
+# Elephant Levels
 Levels for a little game project
 
 **Level structure**
